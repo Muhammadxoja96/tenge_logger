@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>uz.tenge.logger</groupId>
+  <groupId>uz.tune</groupId>
   <artifactId>logger</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210809071452</lastUpdated>
+    <lastUpdated>20210809072137</lastUpdated>
   </versioning>
 </metadata>
